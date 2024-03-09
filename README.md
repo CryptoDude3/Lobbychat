@@ -3,7 +3,7 @@ Commands:<br>
 set gold: /setstate gold:val<br>
 set crypto /setstate crypto:val<br>
 list all values to set: /dumpstate<br>
-freeze frenzy scoreboard: /setval f/t t<br>
+freeze frenzy scoreboard freeze: /setval f/t t<br>
 crash gold: /setval g/t t<br>
 crash crypto: /setval cr/t t<br>
 crash dino: /setval f/t t<br>
