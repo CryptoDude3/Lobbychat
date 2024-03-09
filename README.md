@@ -10,3 +10,4 @@ crash dino: /setval f/t t<br>
 crash pirate: /setval d/t t<br>
 crash defense2(may take a few tries): /setval d/t t<br>
 just do /help for the rest<br>
+Run while in lobby or in game, not before, not on nickname screen, INGAME!
