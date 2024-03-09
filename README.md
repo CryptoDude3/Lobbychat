@@ -1,5 +1,5 @@
 Lobbychat:
-Commands:
+Commands:\n
 set gold: /setstate gold:val
 set crypto /setstate crypto:val
 list all values to set: /dumpstate
