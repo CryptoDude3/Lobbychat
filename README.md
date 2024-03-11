@@ -11,5 +11,6 @@ crash pirate: /setval d/t t<br>
 freeze gold scoreboard: /setval tat/t t<br>
 crash defense2(may take a few tries): /setval d/t t<br>
 crash monster brawl: /setval xp/t t<br>
+set gold to inf: /setval g Infinity<br>
 just do /help for the rest<br>
 Run while in lobby or in game, not before, not on nickname screen, INGAME!
